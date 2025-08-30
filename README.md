@@ -3,7 +3,11 @@
 A single-page **fitness/gyms** landing site built with plain **HTML, CSS, and JavaScript**.  
 It implements the required behaviors: sticky navbar with color change on scroll, section-anchored links, active “Our Classes” filter buttons, interactive **BMI Calculator** with pointer, **hover** preview on trainers, an **active Google Map embed**, and a mobile layout targeted at **≤ 576px**.
 
----
+## Live Demo
+
+- **Live Site:** https://powerfull-fitness.netlify.app/
+- **Repository:** https://github.com/selinbsa/powerfull-fitness
+
 
 ## 🚀 Quick Start
 
